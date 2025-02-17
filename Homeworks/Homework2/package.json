@@ -1,0 +1,33 @@
+{
+  "name": "homework2",
+  "version": "1.2.0",
+  "description": "ésta es la descripción del proyecto",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "watch": "node --watch index.js",
+    "test": "tarea - actividad - estudio"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanManuelMP/RepositorioMOD5.JuanManuelMendoza.git"
+  },
+  "keywords": [
+    "tarea",
+    "-",
+    "actividad",
+    "-",
+    "estudio"
+  ],
+  "author": "Juan Manuel Mendoza P",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanManuelMP/RepositorioMOD5.JuanManuelMendoza/issues"
+  },
+  "homepage": "https://github.com/JuanManuelMP/RepositorioMOD5.JuanManuelMendoza#readme",
+  "dependencies": {
+    "chance": "^1.1.12",
+    "nodemon": "^3.1.9"
+  }
+}
