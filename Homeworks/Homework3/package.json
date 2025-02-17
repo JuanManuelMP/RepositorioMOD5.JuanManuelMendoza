@@ -1,0 +1,31 @@
+{
+  "name": "homework3",
+  "version": "0.0.1",
+  "description": "Tarea 3 del módulo 5",
+  "main": "init.js",
+  "type": "module",
+  "scripts": {
+    "start": "init.js",
+    "watch": "node --watch init.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanManuelMP/RepositorioMOD5.JuanManuelMendoza.git"
+  },
+  "keywords": [
+    "node",
+    "tareas",
+    "estudio"
+  ],
+  "author": "Juan Manuel Mendoza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanManuelMP/RepositorioMOD5.JuanManuelMendoza/issues"
+  },
+  "homepage": "https://github.com/JuanManuelMP/RepositorioMOD5.JuanManuelMendoza#readme",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "nodemon": "^3.1.9"
+  }
+}
